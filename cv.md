@@ -22,6 +22,7 @@ Ability to analyze errors, ease of learning and teamwork, availability for suppo
 * SQL SERVER
 * UNIX y LINUX
 * GIT
+* JAVASCRIPT
 
 ## CODE EXAMPLES (Birtday- Cake )
 
