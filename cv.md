@@ -1,9 +1,9 @@
 # MARIANNY MEJIAS  
 # Senior Oracle DBA
-_____________________________________________________________
+
 ### Phone: +48537473894
 ### E-mail: mmariannyx@gmail.com
-### Address: Katowice - Poland _____________________________________________________________
+### Address: Katowice - Poland 
 
 ## SUMARY
 IT professional, with knowledge in various technological tools for the administration and maintenance of applications and systems of large volumes of critical business data, thus ensuring the availability and continuity of the systems.
